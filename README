@@ -24,17 +24,17 @@ This Program is made to facilitate the handling of PDF files. This program lets 
 
 Features:
 
-1. Add/Remove Password: Can add password to and remove password from a PDF file. Provide the path and password as
-                        inputs and let the program do the rest.
+1. Add/Remove Password: Can add password to and remove password from a PDF file. Provide the path and password 
+                        as inputs and let the program do the rest.
 
-2. Merge PDF Files: Can merge several PDF files together, just keep entering the full paths to all the PDF files,
-                    one by one. The program will merge all the PDFs in the entered order and give the output in the
-                    Desktop.
+2. Merge PDF Files: Can merge several PDF files together, just keep entering the full paths to all the PDF 
+                    files, one by one. The program will merge all the PDFs in the entered order and give
+                    the output in the Desktop.
 
 3. Crack PDF Password: This feature takes "PDF File" and "Wordlist" as the input and will try each and every
-                       string in the "Wordlist" and return if the Password was found or not. This feature is for
-                       personal use and not to be used on others' file without their consent. I won't be responsible
-                       if used to malicious purposes.
+                       string in the "Wordlist" and return if the Password was found or not. This feature is 
+                       for personal use and not to be used on others' file without their consent. I won't be
+                       responsible if used to malicious purposes.
 
 I have tried to make this program user friendly, by using "termcolor" for attractive output printouts and be very
 detailed about every step.
