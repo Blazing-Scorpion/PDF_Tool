@@ -36,15 +36,16 @@ Features:
                        for personal use and not to be used on others' file without their consent. I won't be
                        responsible if used to malicious purposes.
 
-I have tried to make this program user friendly, by using "termcolor" for attractive output printouts and be very
-detailed about every step.
+I have tried to make this program user friendly, by using "termcolor" for attractive output printouts and be 
+very detailed about every step.
 
-There is nothing much to explain in this, follow all the steps asked by the program and it would work flawlessly.
+There is nothing much to explain in this, follow all the steps asked by the program and it would work 
+flawlessly.
 
 *Install all the required packages mentioned in the "requirements.txt".
 
-    This could be done using "pip install -r requirements.txt". Using pip or pip3 is completely upto you and won't
-    make any difference.
+    This could be done using "pip install -r requirements.txt". Using pip or pip3 is completely upto you 
+    and won't make any difference.
 
 
 
