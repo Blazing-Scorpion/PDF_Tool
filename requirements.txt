@@ -1,0 +1,4 @@
+pikepdf~=4.3.1
+pypdf==1.13
+termcolor~=1.1.0
+tqdm~=4.62.3
